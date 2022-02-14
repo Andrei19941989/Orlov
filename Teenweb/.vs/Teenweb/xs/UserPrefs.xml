@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{F063558C-2850-4028-8977-3518520916BC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Teenweb/UserManager.cs">
+    <Files>
+      <File FileName="Teenweb/Program.cs" Line="62" Column="164" />
+      <File FileName="Teenweb/Teenweb.cs" />
+      <File FileName="Teenweb/User.cs" />
+      <File FileName="Teenweb/UserManager.cs" Line="21" Column="1" />
+      <File FileName="Teenweb2/UnitTest1.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Teenweb" expanded="True">
+            <Node name="Teenweb" expanded="True">
+              <Node name="UserManager.cs" selected="True" />
+            </Node>
+            <Node name="Teenweb2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Teenweb" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Teenweb PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
